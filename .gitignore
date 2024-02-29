@@ -1,0 +1,13 @@
+# Compiled Object files
+objs/
+*.o
+
+# Dependencies
+*.d
+
+# Executable
+ircserv
+
+# Others
+.vscode/
+.nfs*
